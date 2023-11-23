@@ -1,0 +1,11 @@
+*.idea
+*.logs
+*.txt
+nbody-ref
+nbody-release
+nbody-debug
+logs
+.DS_Store
+cmake-build-release/
+*.pdf
+*.pyc
